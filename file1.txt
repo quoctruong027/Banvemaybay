@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello world!
 My name is Thai
 I am 22 year old
 My name is Hao
+=======
+>>>>>>> parent of c37baf5... update file1
 =======
 >>>>>>> parent of c37baf5... update file1
